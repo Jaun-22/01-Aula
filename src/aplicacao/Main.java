@@ -18,7 +18,7 @@ public class Main {
         System.out.println(13.00 + numeroDoub);
 
         Boolean quintaFeira = false;
-        System.out.println("Hoje é quinta? " +nome +" xuxuzinho "+ quintaFeira);
+        System.out.println("Hoje é quinta? " + nome + quintaFeira);
 
     }
 
